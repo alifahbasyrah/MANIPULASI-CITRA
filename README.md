@@ -1,5 +1,5 @@
-Nama: Najwa Thahira Suherman
-NIM: 452024618095
+Nama: Alifah Basyrah Marsani
+NIM: 452024618073
 Kelas: Universitas Darussalam Gontor C1 
 
 Implementasi dan Analisis Operasi Point Processing serta Spatial Resizing pada Citra Digital Dua Dimensi
